@@ -1,0 +1,24 @@
+.intro{
+    color:whitesmoke;
+    background-color:rgb(54, 51, 50);
+    border: 2px solid gray;
+}
+
+a{
+    color:whitesmoke
+}
+
+a:hover{
+    color:orange;
+}
+
+#welcome{
+    font-size:larger;
+    font-weight:bold;
+}
+
+.floppa{
+    width:200px;
+    height:150px;
+}
+
